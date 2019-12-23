@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.netodologia.myapplication.MainActivity">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/Settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_notes"
+        android:orderInCategory="100"
+        android:title="@string/Notes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_products"
+        android:orderInCategory="100"
+        android:title="@string/Product"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_price"
+        android:orderInCategory="100"
+        android:title="@string/Price"
+        app:showAsAction="never" />
+</menu>
