@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">AppBar</string>
-    <string name="Settings">Настройки</string>
-    <string name="Product">Товар</string>
-    <string name="Notes">Записная книжка</string>
-    <string name="Price">Цены</string>
+    <string name="settings">Настройки</string>
+    <string name="product">Товар</string>
+    <string name="notes">Записная книжка</string>
+    <string name="price">Цены</string>
+    <string name="open_price">Отркыть список цен</string>
+    <string name="open_notes">Отркыть записную книжку</string>
+    <string name="open_products">Отркыть список товаров</string>
+    <string name="open_settings">Отркыть найстроки</string>
 </resources>
